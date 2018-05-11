@@ -11,6 +11,8 @@
 
 [my-first-repo](https://eagronin.github.io/my-first-repo/)
 
+[LinkedIn page](https://www.linkedin.com/in/eagronin)
+
 [my-second-repo](https://eagronin.github.io/hello-world/)
 
 [LinkedIn page](https://www.linkedin.com/in/eagronin)

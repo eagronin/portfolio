@@ -18,7 +18,8 @@ The projects in this portfolio are organized by the data science process, which 
 
 ## Data Acquisition
 [Using python to acquire housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-acquire/)
-\nExtract and load data on Gross Domestic Product (“GDP”), housing prices by city, and whether the city is a university town or not for further processing using python.
+
+Extract and load data on Gross Domestic Product (“GDP”), housing prices by city, and whether the city is a university town or not for further processing using python.
 
 ## Data Preparation
 [Using python to clean and process housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-prepare/)

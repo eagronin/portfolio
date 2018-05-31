@@ -1,4 +1,7 @@
-[LinkedIn page](https://www.linkedin.com/in/eagronin)
+# Eugene Agronin, PhD
+# Data Science Project Portfolio
+# Email: 
+# LinkedIn page: [https://www.linkedin.com/in/eagronin](https://www.linkedin.com/in/eagronin)
 
 Eugene Agronin is a data scientist with a background in Economics, Finance and Statistics and over 10 years of experience in solving problems in the Hi-tech, Auto, Oil & Gas, Mining, Financial Services, Banking, Insurance, Real Estate, Gaming, Dairy and Soft Beverage industries.
 

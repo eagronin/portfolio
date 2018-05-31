@@ -17,15 +17,18 @@ The projects in this portfolio are organized by the data science process, which 
 
 
 ## Data Acquisition
-[Using python to acquire housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-acquire/)<br/>
+[Using python to acquire housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-acquire/)
+
 Extract and load data on Gross Domestic Product (“GDP”), housing prices by city, and whether the city is a university town or not for further processing using python.
 
 ## Data Preparation
-[Using python to clean and process housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-prepare/)<br/>
+[Using python to clean and process housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-prepare/)
+
 Clean and preprocess the data on GDP, housing prices and whether the city is a university town or not using regular expressions, reorganization and filtering; merge the three datasets to prepare the data for the analysis of real estate trends.
 
 ## Analysis
-[Using python to clean and process housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-analyze/)<br/>
+[Using python to clean and process housing and macroeconomic data with the purpose of generating insight into investing in real estate.](https://eagronin.github.io/university-towns-analyze/)
+
 Test the hypothesis whether university towns have their mean housing prices less effected by recessions using a means comparison t-test of the trends in housing prices in university towns and non-university towns between the beginning and the bottom of a recession (as defined by GDP growth), to analyze trends in housing prices and generate insight into investing in real estate.
 
 ## Reporting

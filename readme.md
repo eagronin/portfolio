@@ -4,6 +4,8 @@ Eugene Agronin is a data scientist with a background in Economics, Finance and S
 
 Eugene uses Python, R, SQL and NoSQL to solve problems and generate insight by applying supervised and unsupervised machine learning techniques. 
 
+Contact:
+
 [eagronin@gmail.com](eagronin@gmail.com) | [https://www.linkedin.com/in/eagronin](https://www.linkedin.com/in/eagronin) | [https://eagronin.github.io/portfolio](https://eagronin.github.io/portfolio) 
 
 This data science project portfolio is composed of projects covering the full spectrum of the data science development process except for deployment. 

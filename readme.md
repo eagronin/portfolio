@@ -1,7 +1,4 @@
- **Eugene Agronin, Ph.D.**<br/>
-**Data Science Project Portfolio**<br/>
-**Email:**<br/>
-**LinkedIn page:** [https://www.linkedin.com/in/eagronin](https://www.linkedin.com/in/eagronin)
+eagronin@gmail.com | https://www.linkedin.com/in/eagronin | https://eagronin.github.io/portfolio 
 
 ## Introduction and Bio
 

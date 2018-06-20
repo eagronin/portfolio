@@ -18,7 +18,7 @@ The projects in this portfolio are organized by the phases of the data science p
 The projects, inclulding the tools used are summarized in the table below
 
 | No. | Project Name | Description | Tools | Acquire | Prepare | Analyze | Report | Act |
-| --- | ---| --- | --- | ---| --- | ---| ---| ---|
+| --- | ---| --- | --- |:---:|:---:|:---:|:---:|:---:|
 |[1] | Credit Card Fraud Detection and Model Evaluation | Optimize the trade-off between recall and precision in predicting fraud in credit card transactions. | Python (SciKit Learn, Matplotlib) | x | x | x | x | - |
 |[2] | Classification of Mushrooms | Select the most accurate technique for classifying mushrooms into edible and not edible by appllying several classifiers to a feature space reduced to two principal components and visualize the decision boundary. | Python (SciKit Learn, Matplotlib) | x | x | x | x | - | 
 |[3] | Are Housing Prices in University Towns Less Affected by Recessions? | Generate insight into investing in real estate by testing the hypothesis whether university towns have their housing prices less effected by recessions (using a means comparison t-test). | Python (Pandas) | x | x | x | - | - | 

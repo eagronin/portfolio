@@ -21,7 +21,7 @@ The projects, inclulding the tools used are summarized in the table below.  You 
 
 ## Projects
 
-| No. | Project Name | Description | Tools | ![](https://github.com/eagronin/portfolio/blob/master/acquire.png?raw=true) | ![](https://github.com/eagronin/portfolio/blob/master/prepare.png?raw=true) | ![](https://github.com/eagronin/portfolio/blob/master/analyze.png?raw=true) | ![](https://github.com/eagronin/portfolio/blob/master/report.png?raw=true) | ![](https://github.com/eagronin/portfolio/blob/master/act.png?raw=true) |
+| No. | Project Name | Description | Tools | A c q u i r e | P r e p a r e | A n a l y z e | R e p o r t | A c t |
 | --- | ---| --- | --- |:---:|:---:|:---:|:---:|:---:|
 |[1] | [Credit Card Fraud Detection and Model Evaluation](https://eagronin.github.io/credit-card-fraud-acquire/) | Optimize the trade-off between recall and precision in predicting fraud in credit card transactions. | Python (SciKit Learn, Matplotlib) | [go](https://eagronin.github.io/credit-card-fraud-acquire/) | [go](https://eagronin.github.io/credit-card-fraud-prepare/) | [go](https://eagronin.github.io/credit-card-fraud-analyze/) | [go](https://eagronin.github.io/credit-card-fraud-report/) | na |
 |[2] | Classification of Mushrooms | Select the most accurate technique for classifying mushrooms into edible and not edible by appllying several classifiers to a feature space reduced to two principal components and visualize the decision boundary. | Python (SciKit Learn, Matplotlib) | x | x | x | x | - | 

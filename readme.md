@@ -13,7 +13,7 @@ This portfolio’s projects apply Python, R, SQL, Spark, Hive, MongoDB and Neo4j
 
 The projects in this portfolio are organized by the phases of the data science process as shown in the diagram below:
 
-
+![](https://github.com/eagronin/portfolio/blob/master/Data science development process visualization.png?raw=true)
 
 
 ## Data Acquisition

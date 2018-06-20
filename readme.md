@@ -22,4 +22,5 @@ The projects, inclulding the tools used are summarized in the table below
 | number |	1095 |	547.0 |	316.24 |	0 |	1094 |
 
 | No. | Project Name | Description | Tools | Acquire | Prepare | Analyze | Report | Act |
-|[1]	Credit Card Fraud Detection and Model Evaluation | Optimize the trade-off between recall and precision in predicting fraud in credit card transactions. | Python (SciKit Learn, Matplotlib) | x | x | x | x | - |
+| --- | ---| --- | --- | ---| --- | ---| ---| ---|
+|[1] | Credit Card Fraud Detection and Model Evaluation | Optimize the trade-off between recall and precision in predicting fraud in credit card transactions. | Python (SciKit Learn, Matplotlib) | x | x | x | x | - |

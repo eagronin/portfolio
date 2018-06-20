@@ -11,12 +11,9 @@ This data science project portfolio is composed of 21 projects covering the full
 
 This portfolio’s projects apply Python, R, SQL, Spark, Hive, MongoDB and Neo4j within a data science context to provide value to credit card fraud detection, movie and restaurant recommendation, consumer marketing, blight ticket compliance, real estate, classification of tumors, renewable energy, sports, atmospheric science, gaming and social network lines of business using KNN, decision trees, random forest, SVM, linear regression, logistic regression, regularization, K-Means clustering, PCA, association analysis, collaborative filtering, matrix factorization and anomaly detection. 
 
-The projects in this portfolio are organized by the data science process, which includes the following steps:
+The projects in this portfolio are organized by the phases of the data science process as shown in the diagram below:
 
-1.	Data acquisition (identify data sets, retrieve / query data)
-2.	Data preparation (clean, integrate, package, understand nature of the data, preliminary analysis)
-3.	Analysis (select analytical techniques, build models)
-4.	Reporting (communicate results)
+
 
 
 ## Data Acquisition

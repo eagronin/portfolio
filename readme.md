@@ -17,16 +17,9 @@ The projects in this portfolio are organized by the phases of the data science p
 
 The projects, inclulding the tools used are summarized in the table below
 
-| No. | Project Name | Description | Tools | Acquire | Prepare | Analyze | Report Act |
+| --- | ---| --- | --- | ---| --- | ---| ---| data |
+| No. | Project Name | Description | Tools | Acquire | Prepare | Analyze | Report | Act |
 | --- | ---| --- | --- | ---| --- | ---| ---| ---|
 |[1] | Credit Card Fraud Detection and Model Evaluation | Optimize the trade-off between recall and precision in predicting fraud in credit card transactions. | Python (SciKit Learn, Matplotlib) | x | x | x | x | - |
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
 
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]

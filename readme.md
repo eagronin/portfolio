@@ -3,15 +3,17 @@
 **Email:**<br/>
 **LinkedIn page:** [https://www.linkedin.com/in/eagronin](https://www.linkedin.com/in/eagronin)
 
-Eugene Agronin is a data scientist with a background in Economics, Finance and Statistics and over 10 years of experience in solving problems in the Hi-tech, Auto, Oil & Gas, Mining, Financial Services, Banking, Insurance, Real Estate, Gaming, Dairy and Soft Beverage industries.
+## Introduction and Bio
 
-Specifically, Eugene uses Python, R, SQL and NoSQL to solve problems and generate insight using regression, classification, clustering, association analysis, collaborative filtering, matrix factorization and anomaly detection. 
+Eugene Agronin is a data scientist with a background in Economics, Finance and Statistics and over 10 years of experience in solving problems for clients in multiple industries by generating insight from data and communicating results to non-technical audiences.  Eugene's projects involved companies in such industries as hi-tech, auto, oil & gas, mining, financial services, banking, insurance, real estate, gaming, dairy and soft beverages.
 
-This data science project portfolio is composed of 21 projects covering the full spectrum of the data science process. 
+Eugene uses Python, R, SQL and NoSQL to solve problems and generate insight by applying supervised and unsupervised machine learning techniques. 
 
-This portfolio’s projects apply Python, R, SQL, Spark, Hive, MongoDB and Neo4j within a data science context to provide value to credit card fraud detection, movie and restaurant recommendation, consumer marketing, blight ticket compliance, real estate, classification of tumors, renewable energy, sports, atmospheric science, gaming and social network lines of business using KNN, decision trees, random forest, SVM, linear regression, logistic regression, regularization, K-Means clustering, PCA, association analysis, collaborative filtering, matrix factorization and anomaly detection. 
+This data science project portfolio is composed of projects covering the full spectrum of the data science development process except for deployment. 
 
-The projects in this portfolio are organized by the phases of the data science process as shown in the diagram below:
+This portfolio’s projects apply Python and Spark within a data science context to provide value in the detection of credit card fraud, investment in real estate and fire prevention using k-nearest neighbors, decision trees, random forest, support vector machine, linear regression, logistic regression, regularization, k-means clustering and principal component analysis. 
+
+The projects in this portfolio are organized by the phases of the data science development process as shown in the diagram below.
 
 ## Data Science Development Process
 

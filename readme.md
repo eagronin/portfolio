@@ -20,7 +20,7 @@ The projects in this portfolio are organized by the phases of the data science d
 
 ![](https://github.com/eagronin/portfolio/blob/master/data-process.png?raw=true)
 
-The projects are summarized in the table below.  You can click either on the project name or on any of the "x"-s in the columns on the right to be directed to the respective phase of the data science development process.
+The projects are summarized in the table below.  You can click either on the project name to be directed to the project, or on any of the "x"-s in the columns on the right to be directed to the respective phase of the project's data science development process.
 
 ## Projects
 

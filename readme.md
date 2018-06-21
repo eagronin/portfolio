@@ -14,7 +14,7 @@ This data science project portfolio is composed of projects covering the full sp
 
 The projects apply Python and Spark within a data science context to provide value in the detection of credit card fraud, investment in real estate and fire prevention using k-nearest neighbors, decision trees, random forest, support vector machine, linear regression, logistic regression, regularization, k-means clustering and principal component analysis. 
 
-The projects in this portfolio are organized by the phases of the data science development process as shown in the diagram below.
+The projects in this portfolio are organized by phase of the data science development process as shown in the diagram below.
 
 ## Data Science Development Process
 

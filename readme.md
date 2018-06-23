@@ -1,4 +1,4 @@
-## Bio
+# Bio
 
 Eugene Agronin is a data scientist with a background in Economics, Finance and Statistics and over 10 years of experience in solving problems for clients in multiple industries by generating insight from data and communicating results to non-technical audiences.  Eugene's projects involved companies in such industries as hi-tech, auto, oil & gas, mining, financial services, banking, insurance, real estate, gaming, dairy and soft beverages.
 
@@ -8,7 +8,7 @@ Contact:
 
 [eagronin@gmail.com](eagronin@gmail.com) \| [https://www.linkedin.com/in/eagronin](https://www.linkedin.com/in/eagronin) \| [https://eagronin.github.io/portfolio](https://eagronin.github.io/portfolio) 
 
-## Introduction
+# Introduction
 
 This data science project portfolio is composed of projects covering the full spectrum of the data science development process except for deployment. 
 
@@ -16,13 +16,13 @@ The projects apply Python and Spark within a data science context to provide val
 
 The projects in this portfolio are organized by phase of the data science development process as shown in the diagram below.
 
-## Data Science Development Process
+# Data Science Development Process
 
 ![](https://github.com/eagronin/portfolio/blob/master/data-process.png?raw=true)
 
 The projects are summarized in the table below.  You can click either on the project name to be directed to the project, or on any of the "x"-s in the columns on the right to be directed to the respective phase of the project's data science development process.
 
-## Projects
+# Projects
 
 | No. | Project Name | Description | Tools | A c q u i r e | P r e p a r e | A n a l y z e | R e p o r t - | A c t - - - - |
 | --- | ---| --- | --- |:---:|:---:|:---:|:---:|:---:|

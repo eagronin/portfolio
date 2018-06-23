@@ -16,7 +16,7 @@ The projects apply Python and Spark within a data science context to provide val
 
 The projects in this portfolio are organized by phase of the data science development process as shown in the diagram below.
 
-# Data Science Development Process
+## Data Science Development Process
 
 ![](https://github.com/eagronin/portfolio/blob/master/data-process.png?raw=true)
 

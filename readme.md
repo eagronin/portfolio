@@ -20,7 +20,7 @@ The projects are summarized in the table below. You can click either on the proj
 
 # Projects
 
-| No. | Project Name | Description | Tools | A c q u i r e | P r e p a r e | A n a l y z e | R e p o r t   |
+| No. | Project Name | Description | Tools | A c q u i r e | P r e p a r e | A n a l y z e | R e p o r t - |
 | --- | ---| --- | --- |:---:|:---:|:---:|:---:|
 |[1] | [Predicting Home Values in Denver](https://eagronin.github.io/housing-forecast-acquire/) | Predict home values using location, historical sales prices and home features. | Python (SciKit Learn, Pandas) | [x](https://eagronin.github.io/housing-forecast-acquire/) | [x](https://eagronin.github.io/housing-forecast-prepare/) | [x](https://eagronin.github.io/housing-forecast-analyze/) | [x](https://eagronin.github.io/housing-forecast-report/) |
 |[2] | [Market Basket Analysis](https://eagronin.github.io/market-basket-acquire/) | Discover the co-occurrence relationships among customers’ purchase activities for targeted marketing in online retail. | R (arules) | [x](https://eagronin.github.io/market-basket-acquire/) | [x](https://eagronin.github.io/market-basket-prepare/) | [x](https://eagronin.github.io/market-basket-analyze/) | [x](https://eagronin.github.io/market-basket-report/) |

@@ -1,8 +1,8 @@
 # Bio
 
-Eugene Agronin is a data scientist with a background in Economics, Finance and Statistics and over 10 years of experience in solving problems for clients in multiple industries by generating insight from data and communicating results to non-technical audiences.  Eugene's projects involved companies in such industries as hi-tech, auto, oil & gas, mining, financial services, banking, insurance, real estate, gaming, dairy and soft beverages.
+Eugene Agronin is an empirical researcher with a background in Economics, Finance, Statistical Modeling and Machine Learning.  He has over 10 years of experience in solving problems for clients in multiple industries by generating insight from data and communicating results to both technical and non-technical audiences. Eugene’s projects involved companies in such industries as real estate, financial services, hi-tech, auto, oil & gas, mining, banking, insurance, gaming, dairy and soft beverages.
 
-Eugene uses Python, R, SQL and NoSQL to solve problems and generate insight by applying supervised and unsupervised machine learning techniques. 
+Eugene uses Python, R, Stata, SQL and NoSQL to solve problems and generate insight by applying statistical modeling and machine learning techniques.
 
 Contact:
 
@@ -10,17 +10,13 @@ Contact:
 
 # Introduction
 
-This data science project portfolio is composed of projects covering the full spectrum of the data science development process except for deployment. 
+The projects in this portfolio are organized by phase of the project’s development process (i.e., data acquisition, cleaning, analysis and reporting) as summarized in the diagram below:
 
-The projects apply R, Python, Spark and various query tools within a data science context to provide value in targeted marketing, detection of credit card fraud, investment in real estate and fire prevention using k-nearest neighbors, decision trees, random forest, support vector machine, linear regression, logistic regression, regularization, k-means clustering and principal component analysis. 
+![](https://github.com/eagronin/portfolio/blob/master/project-development-process.png?raw=true)
 
-The projects in this portfolio are organized by phase of the data science development process as shown in the diagram below.
+The projects apply R, Python, Spark and various query tools within a data science context to provide value in targeted marketing, detection of credit card fraud, investment in real estate and fire prevention using k-nearest neighbors, decision trees, random forest, support vector machine, linear regression, logistic regression, regularization, k-means clustering and principal component analysis.
 
-## Data Science Development Process
-
-![](https://github.com/eagronin/portfolio/blob/master/data-process.png?raw=true)
-
-The projects are summarized in the table below.  You can click either on the project name to be directed to the project, or on any of the "x"-s in the columns on the right to be directed to the respective phase of the project's data science development process.
+The projects are summarized in the table below. You can click either on the project name to be directed to the project, or on any of the “x”-s in the columns on the right to be directed to the respective phase of the project’s development process.
 
 # Projects
 

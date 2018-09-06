@@ -1,6 +1,6 @@
 # Bio
 
-Eugene Agronin is an empirical researcher with a background in Economics, Finance, Statistical Modeling and Machine Learning.  He has over 10 years of experience in solving problems for clients in multiple industries by generating insight from data and communicating results to both technical and non-technical audiences. Eugene’s projects involved companies in such industries as real estate, financial services, hi-tech, auto, oil & gas, mining, banking, insurance, gaming, dairy and soft beverages.
+Eugene Agronin is an empirical economist with a background in Finance, Statistical Modeling and Machine Learning.  He has over 10 years of experience in solving problems for clients in multiple industries by generating insight from data and communicating results to both technical and non-technical audiences. Eugene’s projects involved companies in such industries as real estate, financial services, hi-tech, auto, oil & gas, mining, banking, insurance, gaming, dairy and soft beverages.
 
 Eugene uses Python, R, Stata, SQL and NoSQL to solve problems and generate insight by applying statistical modeling and machine learning techniques.
 
